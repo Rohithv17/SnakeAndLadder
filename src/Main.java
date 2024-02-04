@@ -4,7 +4,8 @@ class main {
 
     public static void main(String[] args) {
         PlayerMoves p= new PlayerMoves();
-        p.compute();
+
+        p.chances();
 
     }
 
